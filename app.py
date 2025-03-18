@@ -14,4 +14,4 @@ def goodbye(username):
 
 if __name__ == '__main__':
     # Start the Flask web server on port 8080
-    app.run(debug=True, port=8080)
+    app.run(debug=True, port=5050)
